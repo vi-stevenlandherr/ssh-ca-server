@@ -1,3 +1,6 @@
+# THIS PROJECT IS DEPRECATED
+ssh-ca-server is no longer maintained, and **this** repository will be removed from GitHub on or after Wednesday, March 4, 2020.
+
 # SSH CA Server
 
 Simple web service to provide SSH key signing.
